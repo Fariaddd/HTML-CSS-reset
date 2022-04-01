@@ -1,0 +1,32 @@
+@import url("https://fonts.googleepis.com/css?family=roboto:300,400,500,600,700,800,900&display=swap");
+
+* {
+  font-family: "Roboto";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aquamarine;
+}
+.header {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #4527a0;
+  padding: 0 25px;
+  transition: 0.3s;
+}
+
+.logo a {
+  display: block;
+}
+
+.logo a img {
+  display: block;
+  width: 70px;
+  border-radius: 10px;
+}
