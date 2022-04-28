@@ -6,13 +6,9 @@ const productContainer = document.querySelector(".products")
 async function getProducts(url) {
     const response = await fetch(url);
     const products = await response.json();
-    console.log(products);
 
-
-
+    pr
 
 }
 getProducts(baseUrl);
-
-
 

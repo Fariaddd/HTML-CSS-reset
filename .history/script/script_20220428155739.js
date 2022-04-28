@@ -1,18 +1,11 @@
 //successful - wing.flywheelsites.com
 
 const baseUrl = 'https://successful-wing.flywheelsites.com/wp-json/wc/store/products'
-const productContainer = document.querySelector(".products")
-
+const productContainer
 async function getProducts(url) {
     const response = await fetch(url);
     const products = await response.json();
     console.log(products);
-
-
-
-
 }
 getProducts(baseUrl);
-
-
 
