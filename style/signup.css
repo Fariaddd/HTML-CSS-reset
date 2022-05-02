@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&display=swap");
+
+.section-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: "Hubballi", cursive;
+}
+
+.text-container {
+  margin-top: 20px;
+}
+
+.container-input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+.input-box {
+  width: 100%;
+  border: 1px solid black;
+  height: 40px;
+}
+
+#logginn-btn {
+  background-color: rgb(32, 32, 32);
+  color: white;
+  margin-top: 25px;
+  width: 150px;
+  height: 40px;
+}
+
+#logginn-btn:hover {
+  background-color: rgb(233, 132, 0);
+}
+p {
+  margin-top: 5px;
+}
+
+.or-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.or-box {
+  background-color: white;
+  margin: 10px 10px 50px 0px;
+  border: 1px solid black;
+  width: 150px;
+  height: 40px;
+}
