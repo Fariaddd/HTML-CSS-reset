@@ -3,6 +3,8 @@ Work Schedule: Create a detailed work schedule, complete with milestones for des
 Target Audience & Design: The target audience should be carefully considered, and the proposed design should reflect this. A prototype of the website should be made using your chosen software (Adobe XD, Figma etc.)
 Final Product: A URL and zip file with the final website should be submitted. The site should be tested on a variety of devices before final delivery. The student has responsibility for setting up their own web host, or using Netlify to deploy the site. GitHub repositories should be set to private.
 Report: Submit a report discussing the design and technical aspects of the project, as well as how guidelines for WCAG, SEO and content management were handled. A template for this report is provided under ‘Resources’.
+
+
 Requirements
 The site must be have a design that appeals to the target audience.
 The site must have at least 4-6 pages.
